@@ -1,0 +1,2 @@
+# Kaggle-Spaceship_Titanic
+Spaceship_Titanicやってみる
